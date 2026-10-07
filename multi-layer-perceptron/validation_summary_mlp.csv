@@ -1,0 +1,6 @@
+training,mean_relative_error_pct,variance_pct
+T1,1.4066,0.8059
+T2,1.2938,0.6953
+T3,1.2564,0.7657
+T4,1.4411,0.6842
+T5,1.3974,0.7389
