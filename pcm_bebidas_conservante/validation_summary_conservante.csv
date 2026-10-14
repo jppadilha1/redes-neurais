@@ -1,0 +1,3 @@
+method,hits,total,accuracy_pct
+standard,18,18,100.0
+momentum,18,18,100.0
