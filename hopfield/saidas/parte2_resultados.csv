@@ -1,0 +1,13 @@
+situacao,padrao,pixels_corrompidos,ruido_%,iteracoes,resultado,recuperou_corretamente,pixels_errados_no_final
+1,1,9,20.0,2,Padrão 1,True,0
+2,1,9,20.0,2,Padrão 1,True,0
+3,1,9,20.0,2,Padrão 1,True,0
+4,2,9,20.0,2,Padrão 3,False,8
+5,2,9,20.0,3,Padrão 3,False,8
+6,2,9,20.0,2,Padrão 2,True,0
+7,3,9,20.0,2,Padrão 3,True,0
+8,3,9,20.0,2,Padrão 3,True,0
+9,3,9,20.0,2,Padrão 3,True,0
+10,4,9,20.0,2,Padrão 4,True,0
+11,4,9,20.0,2,Padrão 4,True,0
+12,4,9,20.0,2,Padrão 4,True,0
