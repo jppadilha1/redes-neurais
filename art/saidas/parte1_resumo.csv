@@ -1,0 +1,5 @@
+rho,classes_ativas,neuronios_criados,ciclos_ate_estabilizar,agrupamentos
+0.5,3,4,3,"Classe 1: S1, S6 | Classe 2: S2, S5, S7, S10 | Classe 3: S3, S4, S8, S9"
+0.8,5,5,2,"Classe 1: S1, S6 | Classe 2: S2, S7 | Classe 3: S3, S8 | Classe 4: S4, S9 | Classe 5: S5, S10"
+0.9,7,7,2,"Classe 1: S1, S6 | Classe 2: S2 | Classe 3: S3, S8 | Classe 4: S4 | Classe 5: S5, S10 | Classe 6: S7 | Classe 7: S9"
+0.99,8,8,2,"Classe 1: S1 | Classe 2: S2 | Classe 3: S3, S8 | Classe 4: S4 | Classe 5: S5, S10 | Classe 6: S6 | Classe 7: S7 | Classe 8: S9"
